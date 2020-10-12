@@ -1,0 +1,6 @@
+REPORT zfoobar2.
+
+INCLUDE zfoobar3.
+
+START-OF-SELECTION.
+  PERFORM foo.
