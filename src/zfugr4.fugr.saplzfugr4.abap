@@ -5,3 +5,5 @@ INCLUDE lzfugr4top.
 INCLUDE lzfugr4uxx.
 
 INCLUDE zfugr_inc.
+
+INCLUDE lzfugr4f01.
