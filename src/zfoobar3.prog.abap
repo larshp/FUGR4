@@ -2,6 +2,6 @@
 *& Include          ZFOOBAR3
 *&---------------------------------------------------------------------*
 
-FORM foo.
+FORM foo CHANGING sdfsd.
   WRITE 'hello'.
 ENDFORM.
