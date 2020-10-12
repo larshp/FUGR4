@@ -1,5 +1,3 @@
-FUNCTION-POOL zfugr4.                       "MESSAGE-ID ..
+FUNCTION-POOL zfugr4.
 
 DATA bar TYPE i.
-
-* INCLUDE LZFUGR4D...                        " Local class definition
