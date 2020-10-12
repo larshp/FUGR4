@@ -9,6 +9,6 @@
 *& -->  p1        text
 *& <--  p2        text
 *&---------------------------------------------------------------------*
-FORM sdfsdf .
+FORM sdfsdf.
   WRITE bar.
 ENDFORM.
