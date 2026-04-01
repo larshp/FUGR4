@@ -8,6 +8,16 @@
     <SOBJ_NAME>LZFUGR4TOP</SOBJ_NAME>
     <SOBJ_NAME>SAPLZFUGR4</SOBJ_NAME>
    </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZFUGR4_FM1</FUNCNAME>
+     <SHORT_TEXT>test</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>ZFUGR4_FM2</FUNCNAME>
+     <SHORT_TEXT>test</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
